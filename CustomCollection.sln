@@ -3,13 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_CustomCollection", "1_CustomCollection\1_CustomCollection.csproj", "{DF949DA5-972F-4A1E-AF2F-9D1130558E8C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_CustomCollection", "1_CustomCollection\1_CustomCollection.csproj", "{DF949DA5-972F-4A1E-AF2F-9D1130558E8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_CustomCollection", "2_CustomCollection\2_CustomCollection.csproj", "{04B63D79-173D-4BFE-B76D-E16F61700E13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2_CustomCollection", "2_CustomCollection\2_CustomCollection.csproj", "{04B63D79-173D-4BFE-B76D-E16F61700E13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_CustomCollection", "3_CustomCollection\3_CustomCollection.csproj", "{1FBE362C-8D29-4863-82F8-76AE6D5550A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_CustomCollection", "3_CustomCollection\3_CustomCollection.csproj", "{1FBE362C-8D29-4863-82F8-76AE6D5550A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_CustomCollection", "4_CustomCollection\4_CustomCollection.csproj", "{73317A1D-D99B-4605-B82A-912B18FE6356}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4_CustomCollection", "4_CustomCollection\4_CustomCollection.csproj", "{73317A1D-D99B-4605-B82A-912B18FE6356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_CustomCollection", "5_CustomCollection\5_CustomCollection.csproj", "{9BCD8520-E2DC-4C47-B94D-0AAEC1610EB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_CustomCollection", "6_CustomCollection\6_CustomCollection.csproj", "{2EE25DA7-46AD-43F2-BCE1-921A8DC11A96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7_CustomCollection", "7_CustomCollection\7_CustomCollection.csproj", "{75A825D7-14AB-41DC-AF28-1AD095E91BBA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +39,18 @@ Global
 		{73317A1D-D99B-4605-B82A-912B18FE6356}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73317A1D-D99B-4605-B82A-912B18FE6356}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73317A1D-D99B-4605-B82A-912B18FE6356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BCD8520-E2DC-4C47-B94D-0AAEC1610EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCD8520-E2DC-4C47-B94D-0AAEC1610EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCD8520-E2DC-4C47-B94D-0AAEC1610EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCD8520-E2DC-4C47-B94D-0AAEC1610EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE25DA7-46AD-43F2-BCE1-921A8DC11A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE25DA7-46AD-43F2-BCE1-921A8DC11A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE25DA7-46AD-43F2-BCE1-921A8DC11A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE25DA7-46AD-43F2-BCE1-921A8DC11A96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A825D7-14AB-41DC-AF28-1AD095E91BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A825D7-14AB-41DC-AF28-1AD095E91BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A825D7-14AB-41DC-AF28-1AD095E91BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A825D7-14AB-41DC-AF28-1AD095E91BBA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
